@@ -2,4 +2,5 @@
 
 * JS中this
 * call&apply
-* Promise
+* Promise (嵌套then)
+* export
