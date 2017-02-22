@@ -54,7 +54,8 @@ this._gestureHandlers = {
 		```
 		[https://github.com/naivehhr/RNPanResponder](https://github.com/naivehhr/RNPanResponder)
 		
-		![img](http://github.com/naivehhr/RNTechnique/raw/master/img/gesture_usage_1.gif)
+		
+		![img](https://raw.githubusercontent.com/naivehhr/RNTechnique/master/img/gesture_usage_1.gif)
 
 ****
 
