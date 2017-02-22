@@ -54,7 +54,7 @@ this._gestureHandlers = {
 		```
 		[https://github.com/naivehhr/RNPanResponder](https://github.com/naivehhr/RNPanResponder)
 		
-		![Markdown](http://p1.bpimg.com/1949/fb55e60846aef9d0.gif)
+		![Markdown](https://goo.gl/photos/FxthoZv4NY9Gwypi6)
 
 ****
 
