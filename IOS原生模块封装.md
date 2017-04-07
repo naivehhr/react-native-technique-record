@@ -1,7 +1,7 @@
 ## IOS 原生模块封装
 
 
-###[Demo](https://github.com/naivehhr/aran_native_log)
+### [Demo](https://github.com/naivehhr/aran_native_log)
 
 ### ps: 还是得自己过坑😭
 
@@ -29,6 +29,9 @@ Build Settings->Header Search Patchs->$(SRCROOT)/../../react-native/React -> rec
 
 
 ![Alt text](img/setting_header_search_paths.png)
+
+[ref](https://github.com/coolnameismy/dev-tips/blob/master/react-native/ios%E5%B0%81%E8%A3%85%E9%9D%99%E6%80%81%E5%BA%93%E5%AF%BC%E5%85%A5react-native.md
+)
 
 ### TODO
 
