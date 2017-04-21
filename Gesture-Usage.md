@@ -83,7 +83,7 @@ onMoveShouldSetPanResponder: (e, gestureState) => bool //移动时是否愿意�
 onMoveShouldSetPanResponderCapture: (e, gestureState) => bool //移动时是否捕获
 onStartShouldSetPanResponder: (e, gestureState) => bool //一开始是否响应手势事件
 onStartShouldSetPanResponderCapture: (e, gestureState) => bool //一开始是否捕获
-onPanResponderReject: (e, gestureState) => {...} //拒绝放权
+onPanResponderReject: (e, gestureState) => {...} //拒绝放权 响应者现在“另有其人”而且暂时不会“放权”，请另作安排
 onPanResponderGrant: (e, gestureState) => {...} //点击反馈
 onPanResponderStart: (e, gestureState) => {...} //手势开始时
 onPanResponderEnd: (e, gestureState) => {...} //手势结束时
@@ -116,4 +116,4 @@ onShouldBlockNativeResponder: (e, gestureState) => bool // 返回一个布尔值
 	* vy - 当前的纵向移动速度
 	* numberActiveTouches - 当前在屏幕上的有效触摸点的数量
 
-> 结合动画完成更多交互
+[ref: http://www.jianshu.com/p/935e5c6a5064](http://www.jianshu.com/p/935e5c6a5064)
